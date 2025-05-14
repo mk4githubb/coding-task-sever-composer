@@ -1,10 +1,12 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Server Composer
+# Server Composer
 
 This repository is for a coding task. 
+
+## UI Video
+
+https://github.com/user-attachments/assets/e201764b-662b-415e-bffb-12fcfae78458
+
+## Commands
 
 ### `npm start`
 
